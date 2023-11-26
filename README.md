@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello, my name is Caroline Cordeiro 👩🏽‍🦱
 
+- 📚 I'm currently majoring on Computer Science
+- 📧 How to reach me: carolinedeocordeiro@gmail.com or [https://www.linkedin.com/in/caroline-cordeiro-a88650279/](https://www.linkedin.com/in/caroline-cordeiro-a88650279/)
+- 😄 Pronouns: she/her
+- 
 <!--
 **carolcordeiro/carolcordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
